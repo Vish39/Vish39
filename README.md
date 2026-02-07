@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 I'm not your typical nerdy coder—I'm more of a "white coder."  <br>📜 Certified in Full Stack Development with AWS from IT Vedant, with multiple projects showcasing depth and originality.  <br>🔍 I love exploring how technology really works—whether it's backend systems or the mysteries of AI.  <br>⚡ I don’t manually type every single line; instead, I harness AI as my coding partner to tackle complex challenges and speed up day‑to‑day work.  <br>🚀 For me, coding isn’t just about writing code—it’s about innovating, experimenting, and creating smarter solutions.</p>
+<p align="left">👨‍💻 I'm not your typical nerdy coder—I'm more of a "Vibe coder."  <br>📜 Certified in Full Stack Development with AWS from IT Vedant, with multiple projects showcasing depth and originality.  <br>🔍 I love exploring how technology really works—whether it's backend systems or the mysteries of AI.  <br>⚡ I don’t manually type every single line; instead, I harness AI as my coding partner to tackle complex challenges and speed up day‑to‑day work.  <br>🚀 For me, coding isn’t just about writing code—it’s about innovating, experimenting, and creating smarter solutions.</p>
 
 ###
 
